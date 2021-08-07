@@ -1,4 +1,4 @@
-# Brand assets for aegis-icons
+# Design assets for aegis-icons
 Logos, social preview images etc.
 
 ## Main brand color
